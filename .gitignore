@@ -1,0 +1,8 @@
+# IDE
+.vscode/
+
+# Images / test data
+data/
+
+# Models
+Stage-1/models/
